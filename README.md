@@ -2,6 +2,7 @@
 
 A complete end-to-end SQL Analytics Project by Punit Pal
 
+
 📌 Project Overview
 
 ### 🔗 Live Resources
@@ -28,6 +29,7 @@ Time-based sales insights
 Advanced ranking & window function analysis
 
 The dataset contains 4 relational tables, making it an ideal project to demonstrate SQL skills with real-world analytical queries.
+
 
 📂 **Project Structure**
 
@@ -93,6 +95,7 @@ pizza_sales_mysql_project/
 - Subqueries
 - Business problem solving
 
+
 📊 Key Insights
 
 - Classic pizzas contribute the highest total revenue
@@ -109,19 +112,6 @@ pizza_sales_mysql_project/
 - Canva – for PDF report
 - GitHub – version control & showcasing
 
-📎 Project Files
-
-📄 Full PDF Report:
-➡️ /documentation/Pizza_Sales_Project.pdf
-
-📝 All SQL Queries:
-➡️ /sql/
-
-📂 Dataset:
-➡️ /datasets/
-
-🖼 Screenshots:
-➡️ /screenshots/
 
 🚀 How to Run This Project
 
@@ -135,6 +125,7 @@ Import CSVs into MySQL
 Run SQL scripts in order (01 to 13)
 Analyze outputs in MySQL Workbench
 
+
 🤝 About the Author – Punit Pal
 
 Aspiring Data Analyst skilled in:
@@ -145,6 +136,7 @@ Aspiring Data Analyst skilled in:
 - MS Office
 - Google Suite
 - Problem-solving & critical thinking
+
 
 🔗 Let's Connect
 LinkedIn: https://www.linkedin.com/in/punit-pal/
