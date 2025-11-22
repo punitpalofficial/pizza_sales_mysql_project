@@ -138,7 +138,7 @@ GitHub – version control & showcasing
 
 Clone this repository
 
-git clone https://github.com/punitpalofficial/pizza_sales_mysql_project.git
+git clone: https://github.com/punitpalofficial/pizza_sales_mysql_project
 
 
 Import CSVs into MySQL
