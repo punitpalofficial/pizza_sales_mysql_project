@@ -95,12 +95,12 @@ pizza_sales_mysql_project/
 
 📊 Key Insights
 
--Classic pizzas contribute the highest total revenue
--Large size pizzas dominate most orders
--Maximum orders occur between 12 PM – 2 PM
--Deluxe / Pepperoni ranked among top-selling pizzas
--Revenue shows consistent growth over months
--Categories differ significantly in revenue contribution
+- Classic pizzas contribute the highest total revenue
+- Large size pizzas dominate most orders
+- Maximum orders occur between 12 PM – 2 PM
+- Deluxe / Pepperoni ranked among top-selling pizzas
+- Revenue shows consistent growth over months
+- Categories differ significantly in revenue contribution
 
 🛠 Tools & Technologies
 
