@@ -4,23 +4,34 @@ A complete end-to-end SQL Analytics Project by Punit Pal
 
 📌 Project Overview
 
+### 🔗 Live Resources
+
+📄 **Full PDF Report**  
+➡️ [Click to Open](documentation/Pizza_Sales_Project.pdf)
+
+📝 **All SQL Queries**  
+➡️ [/sql/](sql)
+
+📊 **Dataset**  
+➡️ [/datasets/](datasets)
+
+🖼 **Screenshots**  
+➡️ [/screenshots/](screenshots)
+
 This project focuses on analyzing pizza sales data using MySQL to extract insights such as:
 
 Best-selling pizzas
-
 Revenue patterns
-
 Order behavior
-
 Category-wise performance
-
 Time-based sales insights
-
 Advanced ranking & window function analysis
 
 The dataset contains 4 relational tables, making it an ideal project to demonstrate SQL skills with real-world analytical queries.
 
-📂 Project Structure
+📂 **Project Structure**
+
+```text
 pizza_sales_mysql_project/
 │
 ├── datasets/
@@ -45,8 +56,9 @@ pizza_sales_mysql_project/
 │   └── 13_top_3_by_category.sql
 │
 ├── screenshots/
-│── documentation/
+├── documentation/
 └── README.md
+
 
 🔍 Business Questions Answered
 ### 🔹 Basic Analysis
