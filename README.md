@@ -84,14 +84,14 @@ pizza_sales_mysql_project/
 
 🧠 SQL Concepts Demonstrated
 
-✔ Complex JOINs
-✔ Aggregate functions
-✔ GROUP BY & ORDER BY
-✔ CTEs
-✔ Window functions (RANK, DENSE_RANK, SUM OVER)
-✔ Date & time functions
-✔ Subqueries
-✔ Business problem solving
+- Complex JOINs
+- Aggregate functions
+- GROUP BY & ORDER BY
+- CTEs
+- Window functions (RANK, DENSE_RANK, SUM OVER)
+- Date & time functions
+- Subqueries
+- Business problem solving
 
 📊 Key Insights
 
