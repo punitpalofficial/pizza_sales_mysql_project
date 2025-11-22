@@ -7,7 +7,7 @@ A complete end-to-end SQL Analytics Project by Punit Pal
 ### 🔗 Live Resources
 
 📄 **Full PDF Report**  
-➡️ [Click to Open](documentation/Pizza_Sales_Project.pdf)
+➡️ [/documentation/](documentation)
 
 📝 **All SQL Queries**  
 ➡️ [/sql/](sql)
