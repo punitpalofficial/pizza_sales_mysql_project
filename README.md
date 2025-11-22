@@ -105,11 +105,8 @@ pizza_sales_mysql_project/
 🛠 Tools & Technologies
 
 MySQL Workbench – querying & analysis
-
 MySQL Database – relational schema
-
 Canva – for PDF report
-
 GitHub – version control & showcasing
 
 📎 Project Files
@@ -136,19 +133,18 @@ git clone: https://github.com/punitpalofficial/pizza_sales_mysql_project
 Import CSVs into MySQL
 
 Run SQL scripts in order (01 to 13)
-
 Analyze outputs in MySQL Workbench
 
 🤝 About the Author – Punit Pal
 
 Aspiring Data Analyst skilled in:
-✔ SQL
-✔ Excel
-✔ Power BI
-✔ Python
-✔ MS Office
-✔ Google Suite
-✔ Problem-solving & critical thinking
+- SQL
+- Excel
+- Power BI
+- Python
+- MS Office
+- Google Suite
+- Problem-solving & critical thinking
 
 🔗 Let's Connect
 LinkedIn: https://www.linkedin.com/in/punit-pal/
