@@ -23,7 +23,7 @@ The dataset contains 4 relational tables, making it an ideal project to demonstr
 📂 Project Structure
 pizza_sales_mysql_project/
 │
-├── datasets/                  
+├── datasets/
 │   ├── pizzas.csv
 │   ├── pizza_types.csv
 │   ├── orders.csv
@@ -45,45 +45,29 @@ pizza_sales_mysql_project/
 │   └── 13_top_3_by_category.sql
 │
 ├── screenshots/
-│   
-├── documentation/
-│   ├── Pizza_Sales_Project.pdf
-│   └── pizza_sales_questions.txt
-│
+│── documentation/
 └── README.md
 
 🔍 Business Questions Answered
-Basic Analysis
+### 🔹 Basic Analysis
+- Total number of orders placed  
+- Total revenue generated  
+- Highest priced pizza  
+- Most common pizza size  
+- Top 5 pizzas by quantity ordered  
 
-Total number of orders placed
+### 🔹 Intermediate Analysis
+- Total quantity ordered per pizza category  
+- Distribution of orders by hour  
+- Category-wise distribution  
+- Avg pizzas per day  
+- Top 3 pizzas by revenue  
 
-Total revenue generated
+### 🔹 Advanced Analysis
+- Revenue % contribution  
+- Cumulative revenue over time  
+- Top 3 pizzas per category  
 
-Highest priced pizza
-
-Most common pizza size
-
-Top 5 pizzas by quantity ordered
-
-Intermediate Analysis
-
-Total quantity ordered per pizza category
-
-Order distribution by hour
-
-Category-wise pizza distribution
-
-Daily average pizzas ordered
-
-Top 3 pizzas by revenue
-
-Advanced Analysis
-
-Percentage contribution to revenue
-
-Cumulative revenue over time
-
-Top 3 pizzas in each category
 
 🧠 SQL Concepts Demonstrated
 
