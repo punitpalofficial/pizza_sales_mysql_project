@@ -1,0 +1,1 @@
+SELECT * FROM pizza_sales.pizza_types;
