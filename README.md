@@ -31,7 +31,7 @@ The dataset contains 4 relational tables, making it an ideal project to demonstr
 
 📂 **Project Structure**
 
-text
+```text
 pizza_sales_mysql_project/
 │
 ├── datasets/
@@ -58,6 +58,7 @@ pizza_sales_mysql_project/
 ├── screenshots/
 ├── documentation/
 └── README.md
+```
 
 
 🔍 Business Questions Answered
