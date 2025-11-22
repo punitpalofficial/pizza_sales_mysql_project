@@ -104,10 +104,10 @@ pizza_sales_mysql_project/
 
 🛠 Tools & Technologies
 
-MySQL Workbench – querying & analysis
-MySQL Database – relational schema
-Canva – for PDF report
-GitHub – version control & showcasing
+- MySQL Workbench – querying & analysis
+- MySQL Database – relational schema
+- Canva – for PDF report
+- GitHub – version control & showcasing
 
 📎 Project Files
 
