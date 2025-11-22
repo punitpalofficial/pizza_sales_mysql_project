@@ -140,5 +140,7 @@ Aspiring Data Analyst skilled in:
 
 🔗 Let's Connect
  LinkedIn: https://www.linkedin.com/in/punit-pal/
+ 
  GitHub: https://github.com/punitpalofficial
+ 
  G-mail: punitpalofficial@gmail.com
